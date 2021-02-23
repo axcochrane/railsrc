@@ -1,0 +1,9 @@
+--database=postgresql
+--skip-action-cable
+--skip-action-mailer
+--skip-javascript
+--skip-turbolinks
+--skip-keeps
+--skip-spring
+--skip-test
+--skip-webpack-install
